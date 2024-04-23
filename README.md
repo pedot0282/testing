@@ -1,0 +1,2 @@
+# testing
+setting up git
